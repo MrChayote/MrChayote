@@ -1,4 +1,4 @@
-![](https://github.com/MrChayote/turtle.gif)
+![perfil](https://github.com/MrChayote/turtle.gif)
 
 <!--
 <h2 align="left">Hi 👋! My name is Rafael and I'm a IA student from the UAEM</h2>
