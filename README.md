@@ -2,11 +2,12 @@
 
 <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDU1NXpkdjF6NjZoMG5uMG00NXFta2dxcnNlNmN2aWp6NmFtYTIwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5tiNlHkA1WdUh3jRDW/giphy.gif"  />
 
-###
+### 🎮 Pac-Man
 
-<img src="https://raw.githubusercontent.com/MrChayote/MrChayote/output/snake.svg" alt="Snake animation" />
+¿Quieres jugar Pac-Man? [Haz clic aquí para jugar](https://tuusuario.github.io/tu-repo-del-juego-pacman)
 
-###
+![Pacman](https://upload.wikimedia.org/wikipedia/en/5/59/Pac-man.png)
+
 <!--
 <h2 align="left">Hi 👋! My name is Rafael and I'm a IA student from the UAEM</h2>
 
