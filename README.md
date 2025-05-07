@@ -1,6 +1,12 @@
 
 
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDU1NXpkdjF6NjZoMG5uMG00NXFta2dxcnNlNmN2aWp6NmFtYTIwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5tiNlHkA1WdUh3jRDW/giphy.gif"  />
 
+###
+
+<img src="https://raw.githubusercontent.com/MrChayote/MrChayote/output/snake.svg" alt="Snake animation" />
+
+###
 <!--
 <h2 align="left">Hi 👋! My name is Rafael and I'm a IA student from the UAEM</h2>
 
