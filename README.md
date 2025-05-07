@@ -1,4 +1,4 @@
-![perfil](https://raw.githubusercontent.com/MrChayote/MrChayote/main/turtle.gif)
+
 
 
 <!--
