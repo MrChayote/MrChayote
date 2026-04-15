@@ -40,5 +40,5 @@ Soy un apasionado de la inteligencia artificial en su intersección con la cienc
 
 ### Contacto Profesional
 ¿Tienes un proyecto de IA o una oportunidad de freelance? Hablemos.
-* **LinkedIn:** [Irving Rafael Salgado Flores](https://www.linkedin.com/in/irving-rafael-salgado-flores)
-* **Email:** [TuCorreo@ejemplo.com] (Añade tu correo aquí, es más directo que las redes)
+<-- * **LinkedIn:** [Irving Rafael Salgado Flores](https://www.linkedin.com/in/irving-rafael-salgado-flores) -->
+* **Email:** [irving.r.salgado@gmail.com]
